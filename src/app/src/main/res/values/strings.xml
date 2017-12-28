@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">ALiAS</string>
     <string name="alias_full_name">Amity Linux Assistance Sapience</string>
-    <string name="action_settings">Settings</string>
-<string name="fragment_about_text">About</string>
-<string name="fragment_event_text">event</string>
-<string name="fragment_webinar_text">webinar</string>
-<string name="fragment_community_text">community</string>
-    </resources>
+    <string name="fragment_about_text">About</string>
+    <string name="fragment_event_text">Events</string>
+    <string name="fragment_webinar_text">Webinars</string>
+    <string name="fragment_community_text">Communities</string>
+    <string name="alias_title_history">The Journey</string>
+    <string name="alias_title_services">Perks of being an ALiASian</string>
+    <string name="alias_title_open_source">Open Source</string>
+    <string name="alias_title_team">Team</string>
+
+</resources>

@@ -16,7 +16,6 @@ android {
             keyAlias keystoreProperties['keyAlias']
             keyPassword keystoreProperties['keyPassword']
             storeFile file(keystoreProperties['storeFile'])
-//            storeFile file('F:/Programming/Android/aliasandroidapp/aliaskey.jks')
             storePassword keystoreProperties['storePassword']
         }
     }
